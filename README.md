@@ -1,9 +1,15 @@
 ﻿# MsgEditQ
 
-This repository publishes APK releases only.
+这个仓库只用于发布 APK 安装包。
 
-Source code is not included in this repository.
+这里不包含源码。
 
-Current release: `v1.0.0`
+## 当前版本
 
-Download the APK from the GitHub Releases section.
+- `v1.0.0`
+
+## 下载方式
+
+请在仓库的 Releases 页面下载 APK：
+
+- [Releases](https://github.com/qinosaa-glitch/msgeditq/releases)
