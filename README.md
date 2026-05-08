@@ -1,15 +1,17 @@
 ﻿# MsgEditQ
 
-这个仓库只用于发布 APK 安装包。
+修改聊天记录
 
-这里不包含源码。
+自用
 
-## 当前版本
+只测试了8.0.7
+
+lsp2.0.2
+
+## 版本
 
 - `v1.0.0`
 
-## 下载方式
-
-请在仓库的 Releases 页面下载 APK：
+## 下载
 
 - [Releases](https://github.com/qinosaa-glitch/msgeditq/releases)
